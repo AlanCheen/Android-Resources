@@ -13,7 +13,18 @@
 利用behavior来实现侧滑drawer
 
 
-## MotionEvent
+## 自定义View
+
+- [Android应用坐标系统全面详解](http://blog.csdn.net/yanbober/article/details/50419117)   
+- [Android应用开发之自定义View触摸相关工具类全解](http://blog.csdn.net/yanbober/article/details/50411919)  
+- [Android应用开发Scroller详解及源码浅析](http://blog.csdn.net/yanbober/article/details/49904715)  
+
+
+### ViewDragHelper
+
+[Android应用ViewDragHelper详解及部分源码浅析](http://blog.csdn.net/yanbober/article/details/50419059)   
+
+### MotionEvent
 
 [Android中MotionEvent的来源和ViewRootImpl](http://blog.csdn.net/singwhatiwanna/article/details/50775201)
 
@@ -27,4 +38,6 @@ chrisbanes大神的文章！~
 
 [svg2android](http://inloop.github.io/svg2android/)  
 将svg文件转化为vector xml文件
+
+
 
