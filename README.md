@@ -3,25 +3,13 @@
 [App架构之组件化理解
 ](http://wangxinghe.me/blog/2016-03-20/architecture-componentization/)
 
+## UI
 
-## RxJava
-
-[RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
-
-
-
-## 手势
-
+### MotionEvent
 
 [Android中MotionEvent的来源和ViewRootImpl](http://blog.csdn.net/singwhatiwanna/article/details/50775201)
 
-
-
-## 进程
-
-
-
-## VectorDrawables
+### VectorDrawables
 [AppCompat — Age of the vectors
 ](https://medium.com/@chrisbanes/appcompat-v23-2-age-of-the-vectors-91cbafa87c88#.x057lap3l)    
 chrisbanes大神的文章！~  
@@ -33,6 +21,7 @@ chrisbanes大神的文章！~
 将svg文件转化为vector xml文件
 
 
+
 ## 插件化
 
 [代理ACTIVITY模式
@@ -42,5 +31,9 @@ chrisbanes大神的文章！~
 [Android博客周刊专题之＃插件化开发＃](http://www.androidblog.cn/index.php/Index/detail/id/16)
 大量关于插件化的资料  
 
+
+## RxJava
+
+[RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
 
