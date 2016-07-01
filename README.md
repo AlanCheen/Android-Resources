@@ -13,6 +13,7 @@
 - [Architecture](./Architecture.md)  
 - [Binder](./Binder.md)  
 - [插件化](./Plugins.md)  
+- [DataBinding](./DataBinding.md)
 - [RxAndroid](./RxAndroid.md)  
 - [UI](./AndroidUI.md)
 
