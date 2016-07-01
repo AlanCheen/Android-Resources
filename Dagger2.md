@@ -17,3 +17,8 @@
 
 [Dagger2从入门到放弃再到恍然大悟
 ](http://www.jianshu.com/p/39d1df6c877d#)
+
+[Android：Dagger2系列1 初识
+](http://www.jianshu.com/p/99675028ef27)
+
+[Android:Dagger2系列2 实例解析](http://www.jianshu.com/p/7abc7938818b)
