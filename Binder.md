@@ -13,3 +13,6 @@ video:[Android Builders Summit 2013 - Deep Dive into Android IPC/Binder Framewor
 [Binder学习指南](http://weishu.me/2016/01/12/binder-index-for-newer/)  
 
 [简单明了，彻底地理解Binder](http://blog.csdn.net/huachao1001/article/details/51504469)  
+
+[Binder牌胶水
+](http://www.jianshu.com/p/3d053abba04b)
