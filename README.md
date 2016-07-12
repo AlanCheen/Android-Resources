@@ -2,9 +2,9 @@
 
 收录优秀的Android相关的资源包括但不限于：  
 
-1. 文章 (最佳！)
-2. App
-3. Demo
+1. 文章(最佳,授人以鱼不如授人以渔)
+2. 优秀的开源APP(实践)
+3. Demo(辅之)
 
 持续更新，欢迎star，欢迎关注，更欢迎发PR！！  
 
@@ -17,12 +17,13 @@
 - [插件化](./Plugins.md)  
 - [Dagger2](./Dagger2.md)
 - [DataBinding](./DataBinding.md)
+- [Fragment](./Fragment.md)
 - [RxAndroid&RxJava](./RxAndroid.md)  
-- [UI（会有更细的整理）](./AndroidUI.md)
+- [UI（会有更细的整理）](./AndroidUI.md)  
 
 
 ## 贡献
 欢迎发PR
 
-## 贡献者列表
+## Contributors
 [YumikoAzu](https://github.com/YumikoAzu)
