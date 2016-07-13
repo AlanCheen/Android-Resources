@@ -8,6 +8,10 @@
 [Android博客周刊专题之＃插件化开发＃](http://www.androidblog.cn/index.php/Index/detail/id/16)  
 大量关于插件化的资料  
 
+
+<http://weishu.me>有一系列文章写关于插件化的原理的文章：  
+[Android插件化原理解析——ContentProvider的插件化
+](http://weishu.me/2016/07/12/understand-plugin-framework-content-provider/)  
 [Android 插件化原理解析——Hook机制之AMS&PMS](http://weishu.me/2016/03/07/understand-plugin-framework-ams-pms-hook/?utm_source=tuicool&utm_medium=referral)
 
 [understand-plugin-framework](https://github.com/tiann/understand-plugin-framework)  
