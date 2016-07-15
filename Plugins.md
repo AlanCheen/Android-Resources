@@ -23,3 +23,4 @@
 [Small](https://github.com/wequick/Small/tree/master/Android)    
 Small插件化方案适用于将一个APK拆分为多个公共库插件、业务模块插件的场景。  
 
+[360-DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)  

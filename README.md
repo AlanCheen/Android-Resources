@@ -17,6 +17,7 @@
 - [插件化](./Plugins.md)  
 - [Dagger2](./Dagger2.md)
 - [DataBinding](./DataBinding.md)
+- [EventBus(事件总线)](./EventBus.md)
 - [Fragment](./Fragment.md)
 - [RxAndroid&RxJava](./RxAndroid.md)  
 - [UI（会有更细的整理）](./AndroidUI.md)  
