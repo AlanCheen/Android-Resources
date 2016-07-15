@@ -1,4 +1,4 @@
-# Process 
+# Process
 
 这里存放涉及到`Process`的优秀文章  
 
@@ -18,4 +18,4 @@
 
 [一种提高Android应用进程存活率新方法](http://skyseraph.com/2016/06/19/Android/%E4%B8%80%E7%A7%8D%E6%8F%90%E9%AB%98Android%E5%BA%94%E7%94%A8%E8%BF%9B%E7%A8%8B%E5%AD%98%E6%B4%BB%E7%8E%87%E6%96%B0%E6%96%B9%E6%B3%95/)  
 
-
+[AndroidDaemonService-合理优雅的进程保活方式](https://github.com/D-clock/AndroidDaemonService)
