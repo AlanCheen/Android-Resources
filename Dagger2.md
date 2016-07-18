@@ -22,3 +22,5 @@
 ](http://www.jianshu.com/p/99675028ef27)
 
 [Android:Dagger2系列2 实例解析](http://www.jianshu.com/p/7abc7938818b)
+
+[Inject everything — ViewHolder and Dagger 2 ](https://medium.com/@froger_mcs/inject-everything-viewholder-and-dagger-2-e1551a76a908#.w41jiteix)

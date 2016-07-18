@@ -12,3 +12,10 @@
 2. [Android Data Binding: That <include> Thing](https://medium.com/google-developers/android-data-binding-that-include-thing-1c8791dd6038#.9d4xm97aj)  
 3. [Android Data Binding: Adding some variability](https://medium.com/google-developers/android-data-binding-adding-some-variability-1fe001b3abcc#.a6us6xf5a)  
 
+
+## 其他
+
+[从零开始的Android新项目7 - Data Binding入门篇](http://blog.zhaiyifan.cn/2016/06/16/android-new-project-from-0-p7/)  
+
+[从零开始的 Android 新项目 8 - Data Binding 高级篇](http://gold.xitu.io/post/578b944a128fe10063ad6c05)  
+
