@@ -1,6 +1,7 @@
 # 插件化
 
 ## 文章
+
 [代理ACTIVITY模式
 ](https://zhuanlan.zhihu.com/p/21335594?f3fb8ead20=dafca61abd3171ed5bf8b55ab023f7cf)  
 讲述如何代理Activity  
@@ -19,8 +20,14 @@
 
 [携程Android App插件化和动态加载实践](http://www.infoq.com/cn/articles/ctrip-android-dynamic-loading)  
 
+
 ## Library
+
 [Small](https://github.com/wequick/Small/tree/master/Android)    
 Small插件化方案适用于将一个APK拆分为多个公共库插件、业务模块插件的场景。  
 
 [360-DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)  
+360出品
+
+[ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)  
+掌阅iReader出品
