@@ -20,6 +20,7 @@ google 出品的[slide](https://docs.google.com/presentation/d/1fby5VeGU9CN8zjw4
 
 [Android：dagger2让你爱不释手-终结篇](http://www.jianshu.com/p/65737ac39c44)
 
+
 [dagger 2 详解](http://www.jianshu.com/p/269c3f70ec1e)
 
 [Dagger2的实际使用](http://www.jianshu.com/p/fc4ed82fe75a)
@@ -34,6 +35,10 @@ google 出品的[slide](https://docs.google.com/presentation/d/1fby5VeGU9CN8zjw4
 
 [Inject everything — ViewHolder and Dagger 2 ](https://medium.com/@froger_mcs/inject-everything-viewholder-and-dagger-2-e1551a76a908#.w41jiteix)  
 
+
+[Google官方MVP+Dagger2架构详解【从零开始搭建android框架系列（6）】](http://www.jianshu.com/p/01d3c014b0b1)
+
+[「神兵利器Dagger2 | 掘金技术征文 」](https://gold.xitu.io/post/5857f70361ff4b006cb0d9fd?utm_source=gold_browser_extension)
 
 
 ## Demo or 库

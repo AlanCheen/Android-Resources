@@ -7,6 +7,7 @@
 1. [Data Binding Guide](https://developer.android.com/topic/libraries/data-binding/index.html)  
 
 官方博客文章：  
+
 1. [No More findViewById
 ](https://medium.com/google-developers/no-more-findviewbyid-457457644885#.fvkldhrbx)   
 2. [Android Data Binding: That <include> Thing](https://medium.com/google-developers/android-data-binding-that-include-thing-1c8791dd6038#.9d4xm97aj)  
@@ -19,3 +20,6 @@
 
 [从零开始的 Android 新项目 8 - Data Binding 高级篇](http://gold.xitu.io/post/578b944a128fe10063ad6c05)  
 
+[MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
+
+[如何构建Android MVVM 应用框架](https://zhuanlan.zhihu.com/p/23772285?from=groupmessage)
