@@ -17,7 +17,7 @@
 [understand-plugin-framework](https://github.com/tiann/understand-plugin-framework)  
 分析DroidPlugin，深入理解插件化框架
 
-
+[VirtualAPK: 滴滴 Android 插件化的实践之路](http://mp.weixin.qq.com/s?__biz=MzIyNjcxODc3MA==&mid=2247483684&idx=1&sn=c705424482f13941a9bcd6a5d6c24ed5&chksm=e86d6479df1aed6f2f101a58ec7a5f839074b0209ce30c0f2d9d4e7bd2ac22937745b295c0d8#rd)  
 
 
 [携程Android App插件化和动态加载实践](http://www.infoq.com/cn/articles/ctrip-android-dynamic-loading)  
