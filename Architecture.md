@@ -3,9 +3,10 @@
 收录一些关于Android架构的资源  
 
 ## Google官方出品
+
 Google官方出品:  
-[android-architecture
-](https://github.com/googlesamples/android-architecture)
+
+[android-architecture](https://github.com/googlesamples/android-architecture)
 
 
 其他的一些文章、Demo、App:  
@@ -13,21 +14,18 @@ Google官方出品:
 ## [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
 
 ### 文章
-[浅谈Andorid开发中的MVP模式
-](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0225/3994.html)  
+[浅谈Andorid开发中的MVP模式](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0225/3994.html)  
 
 [MVP IN ANDROID, PART 1](http://www.tinmegali.com/en/model-view-presenter-android-part-1/)  
 [MVP IN ANDROID, PART 2](http://www.tinmegali.com/en/model-view-presenter-mvp-in-android-part-2/)  
 [MVP IN ANDROID, PART 3](http://www.tinmegali.com/en/)    
 
-[Android MVP 模式 简单易懂的介绍方式
-](http://zhuanlan.zhihu.com/p/20312610)
+[Android MVP 模式 简单易懂的介绍方式](http://zhuanlan.zhihu.com/p/20312610)
 
 [android-guidelines](https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md)
 
 [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)  
-[Android MVP 详解（下）
-](http://www.jianshu.com/p/0590f530c617)
+[Android MVP 详解（下）](http://www.jianshu.com/p/0590f530c617)
 
 [Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f&scene=0)  
 
