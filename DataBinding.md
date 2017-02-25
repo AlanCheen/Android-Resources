@@ -8,8 +8,7 @@
 
 官方博客文章：  
 
-1. [No More findViewById
-](https://medium.com/google-developers/no-more-findviewbyid-457457644885#.fvkldhrbx)   
+1. [No More findViewById](https://medium.com/google-developers/no-more-findviewbyid-457457644885#.fvkldhrbx)   
 2. [Android Data Binding: That <include> Thing](https://medium.com/google-developers/android-data-binding-that-include-thing-1c8791dd6038#.9d4xm97aj)  
 3. [Android Data Binding: Adding some variability](https://medium.com/google-developers/android-data-binding-adding-some-variability-1fe001b3abcc#.a6us6xf5a)  
 

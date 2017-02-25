@@ -23,6 +23,11 @@
 - [UI（会有更细的整理）](./AndroidUI.md)  
 
 
+## 职业规划
+
+[技术人员的发展之路](http://coolshell.cn/articles/17583.html)
+
+
 ## 贡献
 欢迎发PR
 

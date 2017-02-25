@@ -42,6 +42,10 @@ Google官方出品:
 [mosby
 ](https://github.com/sockeqwe/mosby)    
 
+### 视频
+
+[Intro to the MVP pattern](https://www.youtube.com/watch?v=ZWYOy8E4jWo)
+
 ## CleanArchitecture
 
 ### 文章

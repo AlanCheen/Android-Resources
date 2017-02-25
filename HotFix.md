@@ -1,6 +1,15 @@
 # 热修复相关资料
 
 
+
+
+[蘑菇街Android热修复探索之路](http://mp.weixin.qq.com/s?__biz=MzI3OTE2NTQ5NA==&mid=2247483698&idx=1&sn=8ef838b932c1aedd17005c22c97d8289&chksm=eb4aae6bdc3d277dd18ffe2353464ed6422519c2062eb63152eb39631726ecbb47edf7fb3548&mpshare=1&scene=23&srcid=0222bkw6o0SIaVD5nd75DzPi#rd)
+
+列举了时下流行的热修复原理，介绍了蘑菇街的热修复方案。
+[Aceso](https://github.com/meili/Aceso)
+
+
+
 微信:  
 [微信 Android 热补丁实践演进之路](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577297&idx=2&sn=f7dab65e2696aa9f9fda7102e91e7fcb&scene=0#wechat_redirect)  
 
