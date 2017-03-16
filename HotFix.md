@@ -2,12 +2,10 @@
 
 
 
-
 [蘑菇街Android热修复探索之路](http://mp.weixin.qq.com/s?__biz=MzI3OTE2NTQ5NA==&mid=2247483698&idx=1&sn=8ef838b932c1aedd17005c22c97d8289&chksm=eb4aae6bdc3d277dd18ffe2353464ed6422519c2062eb63152eb39631726ecbb47edf7fb3548&mpshare=1&scene=23&srcid=0222bkw6o0SIaVD5nd75DzPi#rd)
 
 列举了时下流行的热修复原理，介绍了蘑菇街的热修复方案。
 [Aceso](https://github.com/meili/Aceso)
-
 
 
 微信:  
@@ -17,16 +15,10 @@
 
 [tinker](https://github.com/Tencent/tinker)
 
-
-
 QQ空间终端开发团队:  
 [安卓App热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=1&srcid=1106Imu9ZgwybID13e7y2nEi#wechat_redirect)
 
-
-
 美团： [Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
-
-
 
 
 [Android热补丁之AndFix原理解析](http://w4lle.github.io/2016/03/03/Android%E7%83%AD%E8%A1%A5%E4%B8%81%E4%B9%8BAndFix%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
